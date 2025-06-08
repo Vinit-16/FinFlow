@@ -1,0 +1,31 @@
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files
+*.csv
+*.h5
+*.pkl
+
+# Ignore model files
+*.h5
+*.ckpt
+*.pt
+
+# Ignore Flask instance and config files
+instance/
+config.py
+
+# Ignore logs
+*.log
+
+# Ignore environment variables
+.env

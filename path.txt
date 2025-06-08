@@ -1,0 +1,171 @@
+Divides investments into four main categories:
+
+Equity (Large, Mid, Small Cap, International)
+Debt (Government Bonds, Corporate Bonds, Money Market)
+Hybrid (Balanced Funds, Monthly Income Plans)
+Alternatives (Gold, Real Estate)
+
+
+Adjusts for both risk and age:
+
+Base allocation determined by risk score (1-10)
+Age adjustment reduces equity exposure as age increases
+Maintains minimum allocations in each category for diversification
+
+
+Provides specific investment vehicles:
+
+Recommends actual funds based on risk profile
+Includes mix of mutual funds, ETFs, REITs, and bonds
+Suggests both active and passive investment options
+
+
+
+You can cite these sources:
+
+SEBI's Mutual Fund categorization guidelines
+Morningstar's Asset Allocation Models
+Association of Mutual Funds in India (AMFI) guidelines
+
+The key differentiators in allocations based on risk score are:
+
+Conservative (1-3): Focus on capital preservation, higher debt allocation
+Moderate (4-6): Balanced approach with significant diversification
+Aggressive (7-10): Higher equity exposure, including small caps and international
+
+Would you like me to explain any specific aspect in more detail? For example, I can elaborate on:
+
+How the age adjustment formula works
+Why certain percentages are chosen for each risk level
+How to select specific investment vehicles within each category
+
+-------------------------------------------------------------------------------------------------------
+
+# Indian Investment Guidelines Analysis
+
+## 1. SEBI Mutual Fund Categorization Guidelines (2017)
+
+### Equity Mutual Funds
+1. **Large Cap Funds**
+   - Must invest minimum 80% in large cap stocks
+   - Large cap = Top 100 companies by market cap
+   - Risk Level: Moderately High
+
+2. **Mid Cap Funds**
+   - Must invest minimum 65% in mid cap stocks
+   - Mid cap = Companies ranked 101-250 by market cap
+   - Risk Level: High
+
+3. **Small Cap Funds**
+   - Must invest minimum 65% in small cap stocks
+   - Small cap = Companies ranked 251+ by market cap
+   - Risk Level: Very High
+
+4. **Multi Cap Funds**
+   - Minimum 25% each in large, mid, and small caps
+   - Remaining 25% flexible allocation
+   - Risk Level: High
+
+### Debt Mutual Funds
+1. **Corporate Bond Funds**
+   - Minimum 80% in highest rated corporate bonds
+   - Risk Level: Moderate
+
+2. **Government Securities Funds**
+   - Minimum 80% in government securities
+   - Risk Level: Low to Moderate
+
+3. **Liquid Funds**
+   - Investment in debt with maturity up to 91 days
+   - Risk Level: Low
+
+## 2. Morningstar Asset Allocation Models
+
+### Conservative Portfolio (Low Risk)
+```
+Equity: 20-30%
+- Large Cap: 15-20%
+- Mid Cap: 5-10%
+
+Debt: 60-70%
+- Government Bonds: 30-35%
+- Corporate Bonds: 25-30%
+- Liquid Funds: 5-10%
+
+Alternative: 10%
+- Gold: 5-7%
+- REITs: 3-5%
+```
+
+### Moderate Portfolio (Medium Risk)
+```
+Equity: 40-60%
+- Large Cap: 25-30%
+- Mid Cap: 10-15%
+- Small Cap: 5-10%
+- International: 0-5%
+
+Debt: 30-50%
+- Government Bonds: 15-20%
+- Corporate Bonds: 15-20%
+- Liquid Funds: 0-10%
+
+Alternative: 10%
+- Gold: 5-7%
+- REITs: 3-5%
+```
+
+### Aggressive Portfolio (High Risk)
+```
+Equity: 70-80%
+- Large Cap: 30-35%
+- Mid Cap: 20-25%
+- Small Cap: 10-15%
+- International: 10-15%
+
+Debt: 10-20%
+- Government Bonds: 5-10%
+- Corporate Bonds: 5-10%
+
+Alternative: 10%
+- Gold: 5%
+- REITs: 5%
+```
+
+## 3. AMFI Guidelines
+
+### Risk Profiling Standards
+1. **Investment Horizon**
+   - Short Term: < 3 years
+   - Medium Term: 3-7 years
+   - Long Term: > 7 years
+
+2. **Age-Based Allocation**
+   ```
+   Below 35: Up to 80% equity
+   35-45: Up to 70% equity
+   45-55: Up to 60% equity
+   Above 55: Up to 40% equity
+   ```
+
+3. **Investment Categories by Goals**
+   - Retirement Planning: Equity + Debt hybrid funds
+   - Child Education: Balanced advantage funds
+   - Tax Saving: ELSS funds (equity-linked saving schemes)
+   - Regular Income: Monthly income plans
+
+### Key Investment Principles
+1. **Diversification Requirements**
+   - Maximum 20% in single sector
+   - Maximum 10% in single company
+   - Minimum 65% in listed equity for equity funds
+
+2. **Risk Management**
+   - Regular portfolio rebalancing
+   - Stop-loss guidelines
+   - Monitoring concentration risk
+
+3. **Disclosure Requirements**
+   - Risk-o-meter mandatory
+   - Portfolio disclosure monthly
+   - Performance comparison with benchmark

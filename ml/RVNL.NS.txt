@@ -1,0 +1,206 @@
+FINANCIAL STATEMENTS ANALYSIS FOR Rail Vikas Nigam Limited (RVNL.NS)
+Sector: Industrials | Industry: Engineering & Construction
+================================================================================
+
+COMPANY OVERVIEW:
+Rail Vikas Nigam Limited engages in the construction of rail infrastructure projects in India. It undertakes rail project development and implementation, as well as provides financial resources mobilization services. The company executes various railway projects, including new lines, doubling, gauge conversion, railway electrification, workshops, bridges, metro projects, construction of cable stayed bridges, institution buildings, etc. It serves Indian Railways, various central and state government ministries, departments, and public sector undertakings. The company was incorporated in 2003 and is based in New Delhi, India.
+
+KEY FINANCIAL METRICS AND RATIOS:
+----------------------------------------
+Total Assets (Latest): ₹19611.99 Cr | YoY Growth: 6.91%
+Total Liabilities (Latest): ₹10866.14 Cr
+Current Ratio: 2.13 (Strong liquidity)
+
+PROFITABILITY METRICS:
+----------------------------------------
+Revenue (Latest): ₹21889.23 Cr | YoY Growth: 7.93%
+Net Income: ₹1574.30 Cr | Profit Margin: 7.19%
+EPS (Basic): ₹7.55 | P/E Ratio: 44.72
+EBITDA: ₹2660.18 Cr | EBITDA Margin: 12.15%
+
+CASH FLOW METRICS:
+----------------------------------------
+Operating Cash Flow: ₹2954.43 Cr
+Free Cash Flow: ₹2614.00 Cr | FCF to Net Income: 127.27%
+Capital Expenditure: ₹116.36 Cr
+
+BALANCE SHEET (Last 3 Years):
+----------------------------------------
+                                                                2024-03-31      2023-03-31      2022-03-31
+Ordinary Shares Number                                        2085020100.0    2085020100.0    2085020100.0
+Share Issued                                                  2085020100.0    2085020100.0    2085020100.0
+Net Debt                                                     48837100000.0   55711800000.0   20014000000.0
+Total Debt                                                   60325200000.0   64413300000.0   66434700000.0
+Tangible Book Value                                          87368200000.0   72314700000.0   63037900000.0
+Invested Capital                                            147334400000.0  136540600000.0  129200700000.0
+Working Capital                                              51664700000.0   46028200000.0   76349200000.0
+Net Tangible Assets                                          87368200000.0   72314700000.0   63037900000.0
+Capital Lease Obligations                                      447600000.0     334700000.0     480900000.0
+Common Stock Equity                                          87456800000.0   72462000000.0   63246900000.0
+Total Capitalization                                        142614500000.0  132767800000.0  126401200000.0
+Total Equity Gross Minority Interest                         87458500000.0   72462000000.0   63246900000.0
+Minority Interest                                                1700000.0             0.0             0.0
+Stockholders Equity                                          87456800000.0   72462000000.0   63246900000.0
+Other Equity Interest                                        66606600000.0   52401000000.0   43123800000.0
+Retained Earnings                                            65896600000.0   50901800000.0   41686700000.0
+Capital Stock                                                20850200000.0   20850200000.0   20850200000.0
+Common Stock                                                 20850200000.0   20850200000.0   20850200000.0
+Total Liabilities Net Minority Interest                     108661400000.0  110975900000.0  137408200000.0
+Total Non Current Liabilities Net Minority Interest          62868200000.0   66550900000.0   66379300000.0
+Other Non Current Liabilities                                  172100000.0     596100000.0     177900000.0
+Non Current Pension And Other Postretirement Benefit Plans     154900000.0     318400000.0     302700000.0
+Tradeand Other Payables Non Current                            691300000.0     331500000.0     231700000.0
+Long Term Debt And Capital Lease Obligation                  55436200000.0   60417300000.0   63433400000.0
+Long Term Capital Lease Obligation                             278500000.0     111500000.0     279100000.0
+Long Term Debt                                               55157700000.0   60305800000.0   63154300000.0
+Long Term Provisions                                           154900000.0     318400000.0     303100000.0
+Current Liabilities                                          45793200000.0   44425000000.0   71028900000.0
+Other Current Liabilities                                     3026100000.0    2517400000.0    9761000000.0
+Current Debt And Capital Lease Obligation                     4889000000.0    3996000000.0    3001300000.0
+Current Capital Lease Obligation                               169100000.0     223200000.0     201800000.0
+Current Debt                                                  4719900000.0    3772800000.0    2799500000.0
+Pensionand Other Post Retirement Benefit Plans Current         389200000.0     282500000.0     286600000.0
+Current Provisions                                             498300000.0     702500000.0     689200000.0
+Payables                                                     12082700000.0   18644300000.0   11894100000.0
+Other Payable                                                 5198000000.0    4144100000.0    2862900000.0
+Dividends Payable                                                8200000.0    3696900000.0    3298400000.0
+Total Tax Payable                                               73900000.0             0.0             0.0
+Accounts Payable                                              6802600000.0   10803300000.0    5732800000.0
+Total Assets                                                196119900000.0  183437900000.0  200655100000.0
+Total Non Current Assets                                     98662000000.0   92984700000.0   53277000000.0
+Other Non Current Assets                                         1400000.0       6300000.0       3800000.0
+Non Current Prepaid Assets                                      62700000.0      60200000.0      72400000.0
+Non Current Deferred Taxes Assets                              139900000.0     138100000.0     131600000.0
+Investmentin Financial Assets                                  100000000.0    1527500000.0     100000000.0
+Available For Sale Securities                                  100000000.0    1527500000.0     100000000.0
+Long Term Equity Investment                                  23951700000.0   18937600000.0   17996700000.0
+Investmentsin Joint Venturesat Cost                          23951700000.0   18937600000.0   17996700000.0
+Goodwill And Other Intangible Assets                            88600000.0     147300000.0     209000000.0
+Other Intangible Assets                                         88600000.0     147300000.0     209000000.0
+Net PPE                                                       9308300000.0    5965200000.0    5639700000.0
+Accumulated Depreciation                                     -1707800000.0   -1441400000.0   -1095300000.0
+Gross PPE                                                    11016100000.0    7406600000.0    6735000000.0
+Construction In Progress                                      5731000000.0    2565100000.0    2053900000.0
+Other Properties                                              3577400000.0    3400200000.0    3585900000.0
+Machinery Furniture Equipment                                  800600000.0     754700000.0     654300000.0
+Buildings And Improvements                                    2129700000.0    1732000000.0    1672000000.0
+Land And Improvements                                         2354800000.0    2354800000.0    2354800000.0
+Properties                                                             0.0             0.0             0.0
+Current Assets                                               97457900000.0   90453200000.0  147378100000.0
+Other Current Assets                                            23900000.0        500000.0       5600000.0
+Restricted Cash                                              19696400000.0   10019300000.0   10935300000.0
+Prepaid Assets                                               31642200000.0   32229300000.0   35411300000.0
+Inventory                                                      647200000.0     589300000.0     499100000.0
+Finished Goods                                                 647200000.0     589300000.0     499100000.0
+Other Receivables                                            18524400000.0   25514900000.0   31023700000.0
+Taxes Receivable                                                       0.0     120300000.0      22100000.0
+Accounts Receivable                                          10773800000.0    9693000000.0    9381700000.0
+Allowance For Doubtful Accounts Receivable                      -7800000.0      -7800000.0             0.0
+Gross Accounts Receivable                                    10781600000.0    9700800000.0    9381700000.0
+Cash Cash Equivalents And Short Term Investments             11430000000.0    8513800000.0   57299800000.0
+Other Short Term Investments                                   389500000.0     147000000.0   11360000000.0
+Cash And Cash Equivalents                                    11040500000.0    8366800000.0   45939800000.0
+Cash Equivalents                                              5402400000.0    4143400000.0   44695200000.0
+Cash Financial                                                5638100000.0    4223400000.0    1244600000.0
+
+INCOME STATEMENT (Last 3 Years):
+----------------------------------------
+                                                                2024-03-31      2023-03-31         2022-03-31
+Tax Effect Of Unusual Items                                   1176032580.0    1162738080.0  1183775727.815783
+Tax Rate For Calcs                                                  0.2334          0.2196           0.223472
+Normalized EBITDA                                            21563100000.0   18134900000.0      15006800000.0
+Total Unusual Items                                           5038700000.0    5294800000.0       5297200000.0
+Total Unusual Items Excluding Goodwill                        5038700000.0    5294800000.0       5297200000.0
+Net Income From Continuing Operation Net Minority Interest   15743000000.0   13417500000.0      11101400000.0
+Reconciled Depreciation                                        377800000.0     423200000.0        370700000.0
+Reconciled Cost Of Revenue                                  201818600000.0  187200700000.0     179033300000.0
+EBITDA                                                       26601800000.0   23429700000.0      20304000000.0
+EBIT                                                         26224000000.0   23006500000.0      19933300000.0
+Net Interest Income                                            712100000.0   -1252300000.0      -2971600000.0
+Interest Expense                                              5684900000.0    5813700000.0       5637100000.0
+Interest Income                                               5647300000.0    4279500000.0       2345900000.0
+Normalized Income                                            11880332580.0    9285438080.0  6987975727.815783
+Net Income From Continuing And Discontinued Operation        15743000000.0   13417500000.0      11101400000.0
+Total Expenses                                              205315300000.0  190574700000.0     182205400000.0
+Rent Expense Supplemental                                      150700000.0     151100000.0         79300000.0
+Diluted Average Shares                                        2085020100.0    2085020100.0       2085020100.0
+Basic Average Shares                                          2085020100.0    2085020100.0       2085020100.0
+Diluted EPS                                                           7.55            6.81               5.32
+Basic EPS                                                             7.55            6.81               5.32
+Diluted NI Availto Com Stockholders                          15743000000.0   13417500000.0      11101400000.0
+Net Income Common Stockholders                               15743000000.0   13417500000.0      11101400000.0
+Otherunder Preferred Stock Dividend                                    0.0             0.0                0.0
+Net Income                                                   15743000000.0   13417500000.0      11101400000.0
+Minority Interests                                               1700000.0             0.0                0.0
+Net Income Including Noncontrolling Interests                15744700000.0   13417500000.0      11101400000.0
+Net Income Continuous Operations                             15744700000.0   13417500000.0      11101400000.0
+Tax Provision                                                 4794400000.0    3775300000.0       3194800000.0
+Pretax Income                                                20539100000.0   17192800000.0      14296200000.0
+Other Non Operating Income Expenses                            161900000.0     108100000.0         39600000.0
+Special Income Charges                                        5038700000.0    5294800000.0       5297200000.0
+Other Special Charges                                        -5038700000.0   -5294800000.0      -5297200000.0
+Net Non Operating Interest Income Expense                      712100000.0   -1252300000.0      -2971600000.0
+Total Other Finance Cost                                      -749700000.0    -281900000.0       -319600000.0
+Interest Expense Non Operating                                5684900000.0    5813700000.0       5637100000.0
+Interest Income Non Operating                                 5647300000.0    4279500000.0       2345900000.0
+Operating Income                                             13577000000.0   12241000000.0      11611700000.0
+Operating Expense                                             3496700000.0    3374000000.0       3172100000.0
+Other Operating Expenses                                       985900000.0     845600000.0        619900000.0
+Depreciation And Amortization In Income Statement              209400000.0     223200000.0        209100000.0
+Amortization                                                    60600000.0      61800000.0         53600000.0
+Depreciation Income Statement                                  148800000.0     161400000.0        155500000.0
+Selling General And Administration                             315700000.0     305200000.0        220200000.0
+Selling And Marketing Expense                                   72300000.0     162000000.0         62900000.0
+General And Administrative Expense                             243400000.0     143200000.0        157300000.0
+Rent And Landing Fees                                           96600000.0      90200000.0         79300000.0
+Gross Profit                                                 17073700000.0   15615000000.0      14783800000.0
+Cost Of Revenue                                             201818600000.0  187200700000.0     179033300000.0
+Total Revenue                                               218892300000.0  202815700000.0     193817100000.0
+Operating Revenue                                           218892300000.0  202815700000.0     193817100000.0
+
+CASH FLOW STATEMENT (Last 3 Years):
+----------------------------------------
+                                                2024-03-31     2023-03-31     2022-03-31
+Free Cash Flow                               26140000000.0 -41251500000.0  46770900000.0
+Capital Expenditure                          -3404300000.0   -611800000.0  -1163400000.0
+End Cash Position                            11040500000.0   8366700000.0  45939800000.0
+Other Cash Adjustment Outside Changein Cash    -14000000.0       100000.0      -100000.0
+Beginning Cash Position                       8366700000.0  45939700000.0  14214000000.0
+Changes In Cash                               2687800000.0 -37573100000.0  31725800000.0
+Financing Cash Flow                         -12865600000.0 -10483200000.0  -1893600000.0
+Interest Paid Cff                            -4455400000.0  -3122200000.0  -2167500000.0
+Cash Dividends Paid                          -4439300000.0  -4334700000.0  -4211700000.0
+Net Issuance Payments Of Debt                -3772900000.0  -2799500000.0   4697100000.0
+Net Short Term Debt Issuance                 -3772900000.0  -2799500000.0  -2302900000.0
+Investing Cash Flow                         -13990900000.0  13549800000.0 -14314900000.0
+Net Other Investing Changes                  -9919500000.0  12128900000.0      -100000.0
+Interest Received Cfi                         3150300000.0   2168100000.0   2449500000.0
+Dividends Received Cfi                                 0.0     96800000.0    100000000.0
+Net Investment Purchase And Sale             -9919500000.0  12128900000.0 -15119000000.0
+Net Business Purchase And Sale               -3964800000.0   -139600000.0   -586300000.0
+Purchase Of Business                         -3964800000.0   -139600000.0   -586300000.0
+Net PPE Purchase And Sale                    -2093300000.0   -506300000.0  -1016500000.0
+Sale Of PPE                                    147400000.0      4200000.0      4400000.0
+Purchase Of PPE                              -2240700000.0   -510500000.0  -1020900000.0
+Capital Expenditure Reported                 -1163600000.0   -101300000.0   -142500000.0
+Operating Cash Flow                          29544300000.0 -40639700000.0  47934300000.0
+Taxes Refund Paid                            -4602900000.0  -3881800000.0  -2993200000.0
+Change In Working Capital                    20373500000.0 -49526900000.0  33605400000.0
+Change In Other Current Liabilities           8166200000.0 -29741000000.0  48307000000.0
+Change In Other Current Assets               13330200000.0   8976400000.0  -8127300000.0
+Change In Payable                            -3703700000.0   3972100000.0   -477700000.0
+Change In Inventory                            -57900000.0    -90200000.0   -444400000.0
+Change In Receivables                         2692200000.0 -32667300000.0  -5719400000.0
+Other Non Cash Items                         -5845500000.0  -4055000000.0   2963900000.0
+Provisionand Write Offof Assets               -258100000.0      7800000.0            0.0
+Depreciation And Amortization                  377800000.0    423200000.0    370700000.0
+Amortization Cash Flow                          60500000.0     61800000.0     53600000.0
+Depreciation                                   317300000.0    361400000.0    317100000.0
+Gain Loss On Investment Securities              -2300000.0      1300000.0       300000.0
+Net Income From Continuing Operations        20539100000.0  17192800000.0  14296200000.0
+
+FINANCIAL HEALTH SUMMARY:
+----------------------------------------
+1. Strong short-term liquidity (current ratio >2)
+2. Moderate profitability (profit margin 7.2%)
+3. Strong cash generation (FCF/Net Income ratio 1.3)
